@@ -208,7 +208,7 @@ try:
     dify_embed_code = """
     <div id="dify-chatbot" style="height: 600px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
         <iframe 
-            src="https://udify.app/chat/IFFauWVSHpSpwgku" 
+            src="https://udify.app/chat/IFFauWVSHpSpwgku"
             width="100%" 
             height="100%" 
             frameborder="0"
@@ -296,3 +296,4 @@ with st.sidebar:
     - [WHO Health Advice](https://www.who.int)
     - [Mental Health Resources](https://www.mentalhealth.gov)
     """)
+
